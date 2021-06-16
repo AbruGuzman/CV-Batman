@@ -1,0 +1,68 @@
+/*ENCABEZADO*/
+div.logo{
+    background-color:#E5E5E5;
+    text-align: center;
+}
+h1.título{
+    background-color:#c4c4c4;
+    color:#005677;
+    font-family:'Times New Roman';
+    font-size: 35px;
+    font-style:normal;
+    font-weight: 700;
+    line-height: 30px;
+    text-align:left;
+    }
+/*CUERPO*/
+main{
+    max-width: 1041px;
+    margin: 50px auto;
+}
+  h2{
+    background-color: #c4c4c4;
+    color:#005677;
+    font-family: 'Times New Roman';
+    font-size:20px;
+    font-style:normal;
+    font-weight:700;
+    line-height:17px;
+    text-align:left;
+    }
+    li{
+        font-family: 'Times New Roman';
+        font-size:20px;
+        font-style: normal;
+        font-weight: normal;
+        line-height:17px;
+        text-align:left;
+        }
+    .span-negrita{
+        color: black;
+        font-family:"Times New Roman";
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        text-align: left;
+        }
+    .span-negritacursiva{
+        color: black;
+        font-family:"Times New Roman";
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 700;
+        text-align: left;
+        }
+/*PIE DE PÁGINA*/
+ footer{
+    background-color:#005677;
+    }
+    .span-footer{
+        color:#FFFFFF;
+        font-family:"Times New Roman";
+        font-size:20px;
+        font-style:normal;
+        font-weight:700;
+        line-height:17px;
+        letter-spacing:0em;
+        text-align:left;
+        }
